@@ -1,7 +1,8 @@
 I’m @jackycamp
+
 My favorite sys call is shmget()
 
-My github is out of date. Please take it with a grain of salt.
+My github is out of date. Sorry.
 
 <!---
 jackycamp/jackycamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
